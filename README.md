@@ -20,7 +20,7 @@ The three client repos are showcase copies (credentials, IDs and client details 
 - One record per item — nothing gets processed twice
 - Fail closed — if the output doesn't check out the run stops (nothing half-finished goes to the client)
 - Alerts — every failure posts to Discord with the step that broke
-- Tests before trust — AI-written code gets automated tests and a forced-failure test before it goes live
+- Tests — the Python and JavaScript code has automated tests (346 on the screener, 10 on the lead capture). The n8n workflows are tested by hand, failure cases included
 
 ## Tools
 
