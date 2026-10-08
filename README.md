@@ -4,7 +4,7 @@ Workflow automation and AI implementation. Toronto, ON.
 
 I find the manual steps in how a team works and replace them with n8n workflows and API integrations.
 
-I direct AI coding tools (Claude Code) to write the code, I set the requirements, review each plan and test the result. I'm not a software developer, and each repo says who wrote what.
+I direct AI coding tools (Claude Code) to write the code. I set the requirements, review each plan and test the result before anything goes live. The n8n builds, the server setup and the client work I do by hand. I'm not a software developer, and each repo's README says who wrote what.
 
 ## What's here
 
