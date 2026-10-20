@@ -28,4 +28,4 @@ n8n (cloud and self-hosted), APIs and webhooks, MCP, Claude API, Claude Code, Hu
 
 ## Get in touch
 
-If your team has a process that eats hours every week, email me at hello@askdanielkang.com or message me on [LinkedIn](https://linkedin.com/in/danieladamkang).
+If your team has a process that eats hours every week, email me at hello@askdanielkang.com.
