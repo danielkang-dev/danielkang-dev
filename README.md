@@ -8,7 +8,7 @@ I direct AI coding tools (Claude Code) to write the code. I set the requirements
 
 ## What's here
 
-- [podcast-to-blog-newsletter-n8n](https://github.com/danielkang-dev/podcast-to-blog-newsletter-n8n) — turns each new podcast episode into a blog draft and a newsletter draft. Live for FiveCardGuys since July 2026.
+- [podcast-to-blog-newsletter-n8n](https://github.com/danielkang-dev/podcast-to-blog-newsletter-n8n) — turns each new podcast episode into a blog draft and a newsletter draft. Live for Cards To The Moon Podcast (FiveCardGuys) since July 2026.
 - [sp500-put-screener](https://github.com/danielkang-dev/sp500-put-screener) — screens about 500 stocks every weekday morning and posts a ranked shortlist to Discord. Live for a private client since August 2026.
 - [lead-to-crm-n8n-hubspot](https://github.com/danielkang-dev/lead-to-crm-n8n-hubspot) — sends website enquiries to HubSpot without creating duplicates. Built for Rise Above Finance, tested end to end on a test instance.
 - [audio-cleanup-automation](https://github.com/danielkang-dev/audio-cleanup-automation) — cleans up and tags an MP3 library, and lets Claude Code run the whole thing as a tool.
